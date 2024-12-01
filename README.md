@@ -13,7 +13,7 @@ pip install customtkinter
 ```
 
 ## Usage
-there is an app called noreps.exe that is only used to not repeat keys when you hold down a keyboard button, it is written in c++ (I will upload the code soon) and I was not able to integrate it well with python and so I preferred to separate the two applications (when I finish this project fasky will be totally in c++ but I am not very expert in c++ interfaces so for now I preferred to do it this way)
+there is an app called noreps.exe that is only used to not repeat keys when you hold down a keyboard button, it is written in c++ (I will upload the code soon) and I was not able to integrate it well with python and so I preferred to separate the two applications (when I finish this project fasky will be totally in c++)
 ```bash
 python app.py
 ```
