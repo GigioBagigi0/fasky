@@ -18,5 +18,9 @@ there is an app called noreps.exe that is only used to not repeat keys when you 
 python app.py
 ```
 
+![Alt text](images/main.png "main")  
+![Alt text](images/map.png "map")
+![Alt text](images/custom.png "custom")
+
 ## License
 The project is licensed under the terms of the MIT License.
