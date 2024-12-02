@@ -2,6 +2,8 @@
 
 FASKY is a software that allows you to change the behavior of the computer when a key is held down (for more than 0.3 seconds but you can customize this option) alphanumeric keyboard, in the default version holding down a letter, when released, it will be replaced with its capital letter, while for the numbers there are symbols, from 1 to 4 there are arrows then in the others there are other symbols such as for example the ohm symbol. it is completely customizable.
 
+[![Video Title](https://img.youtube.com/vi/SUOMuLP_nEY/0.jpg)](https://www.youtube.com/watch?v=SUOMuLP_nEY)
+
 ## Installation
 The only library to install is customtkinter because the others are already included in python. you can also use tkinter but I wanted to use ctk for a more modern interface.
 
